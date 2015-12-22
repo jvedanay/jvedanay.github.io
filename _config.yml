@@ -114,7 +114,7 @@ syntax-highlight: True
 
 # First image of the Timeline
 
-timeline-img: "/img/timeline/default.png"
+#timeline-img: "/img/timeline/default.png"
 
 ###########
 # Contact #
@@ -151,7 +151,7 @@ social:
 pages_list:
   About: 'about'
   Publications: 'timeline'
-  Blog: 'latest-post'
+  News: 'latest-post'
   Contact: 'contact'
 
 # Exclusion list from the generated _site
