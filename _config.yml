@@ -34,7 +34,7 @@ title: "{ Jeffrey Vedanayagam }"
 description: "Blog and website of Jeffrey Vedanayagam, blogging mainly for science and philosophy. All opinions expressed here are pureley mine."
 keywords: "vedanayagam, jeffrey, personal, jekyll, theme"
 favicon: "/img/favicon.ico"
-404-img: "/img/labtocat.png"
+#404-img: "/img/labtocat.png"
 
 ################
 # Header layout #
