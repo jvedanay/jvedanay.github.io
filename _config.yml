@@ -58,7 +58,7 @@ delete-delay: 5000
 lines: # You can add HTML Tags in the Text
   - text: "Somewhere, something incredible is waiting to be known."
   - text: "Science never solves a problem without creating ten more."
-  - text: "Science speaks the language of universal truth."
+  - text: "Nothing in biology makes sense except in the light of evolution."
 
 me-img: "/img/jetpacktocat.png"
 
@@ -120,7 +120,7 @@ timeline-img: "/img/timeline/default.png"
 # Contact #
 ###########
 
-email: "your@email.here"
+email: "jeffreypratap@gmail.com"
 
 ##################
 # Social Buttons #
@@ -132,9 +132,7 @@ social:
   - title: "twitter"
     url: "https://twitter.com/"
   - title: "github"
-    url: "https://github.com/PanosSakkos/personal-jekyll-theme"
-  - title: "bitcoin"
-    url: "https://blockchain.info/address/1LHuKC9Em3KA5yoZaf7nngnNdf9K7s2gSi"
+    url: "https://github.com/jvedanay"
   - title: "rss"
     url: "/feed.xml"
 
@@ -152,8 +150,8 @@ social:
 
 pages_list:
   About: 'about'
+  Publications: 'timeline'
   Blog: 'latest-post'
-  Timeline: 'timeline'
   Contact: 'contact'
 
 # Exclusion list from the generated _site
