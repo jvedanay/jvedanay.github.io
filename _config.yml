@@ -57,7 +57,8 @@ start-delay: 200
 delete-delay: 5000
 lines: # You can add HTML Tags in the Text
   - text: "Somewhere, something incredible is waiting to be known."
-  - text: "Knowing yourself is the beginning of all wisdom"
+  - text: "Science never solves a problem without creating ten more."
+  - text: "Science speaks the language of universal truth."
 
 me-img: "/img/jetpacktocat.png"
 
