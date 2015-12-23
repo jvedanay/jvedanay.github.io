@@ -114,7 +114,7 @@ paginate: 5
 
 # First image of the Timeline
 
-timeline-img: "/img/timeline/default.png"
+#timeline-img: "/img/timeline/default.png"
 
 
 ###########
