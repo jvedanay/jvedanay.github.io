@@ -90,11 +90,11 @@ email-share: True
 twitter-share: True
 #linkedin-share: True
 #reddit-share: True
-#google-plus-share: True
-#tumblr-share: True
+google-plus-share: True
+tumblr-share: True
 #pinterest-share: True
-#pocket-share: True
-#vkontakte-share: True
+pocket-share: True
+vkontakte-share: True
 
 disqus-shortname: "jvedanay"
 
