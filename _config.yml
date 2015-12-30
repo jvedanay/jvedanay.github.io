@@ -152,7 +152,7 @@ social:
 pages_list:
   About: 'about'
   Publications: 'timeline'
-  News: 'latest-post'
+  News/Blog: 'latest-post'
   Contact: 'contact'
 
 # Exclusion list from the generated _site
