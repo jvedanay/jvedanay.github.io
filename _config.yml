@@ -120,7 +120,7 @@ syntax-highlight: True
 ###########
 # Contact #
 ###########
-
+address: "Jeffrey Vedanayagam"
 email: "jeffreypratap@gmail.com"
 
 ##################
@@ -132,8 +132,8 @@ social:
    # url: "https://facebook.com/"
   #- title: "twitter"
    # url: "https://twitter.com/"
-  - title: "github"
-    url: "https://github.com/jvedanay"
+  #- title: "github"
+   # url: "https://github.com/jvedanay"
   #- title: "rss"
    # url: "/feed.xml"
 
