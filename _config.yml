@@ -86,11 +86,11 @@ post-preview-words: 96
 paginate: 5
 
 email-share: True
-fb-share: True
+#fb-share: True
 twitter-share: True
 #linkedin-share: True
 #reddit-share: True
-google-plus-share: True
+#google-plus-share: True
 #tumblr-share: True
 #pinterest-share: True
 #pocket-share: True
@@ -128,8 +128,8 @@ email: "jeffreypratap@gmail.com"
 ##################
 
 social:
-  - title: "facebook"
-    url: "https://facebook.com/"
+  #- title: "facebook"
+   # url: "https://facebook.com/"
   #- title: "twitter"
    # url: "https://twitter.com/"
   - title: "github"
