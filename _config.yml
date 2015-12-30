@@ -88,15 +88,15 @@ paginate: 5
 email-share: True
 fb-share: True
 twitter-share: True
-linkedin-share: True
-reddit-share: True
+#linkedin-share: True
+#reddit-share: True
 google-plus-share: True
-tumblr-share: True
-pinterest-share: True
-pocket-share: True
-vkontakte-share: True
+#tumblr-share: True
+#pinterest-share: True
+#pocket-share: True
+#vkontakte-share: True
 
-disqus-shortname: "panossakkos"
+disqus-shortname: "jvedanay"
 
 syntax-highlight: True
 
