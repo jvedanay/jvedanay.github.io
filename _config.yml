@@ -5,8 +5,6 @@
 
 url: "https://jvedanay.github.io/"
 
-#do not include protocol, just the domain
-site.enforce_ssl: jvedanay.github.io
  
 
 # If you're hosting your site at a Project repository on GitHub pages
@@ -26,7 +24,7 @@ google-tracking-id: "UA-71898576-1"
 # If you are not hosted on Github Pages, and your host doesn't support https
 # then you should disable it
 
-force-https: True
+force-https: False
 
 #############
 # HTML Head #
