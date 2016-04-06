@@ -7,7 +7,6 @@ url: "https://jvedanay.github.io/"
 
 #do not include protocol, just the domain
  
-enforce_ssl: jvedanay.github.io
 
 # If you're hosting your site at a Project repository on GitHub pages
 # (https://yourusername.github.io/repository-name)
