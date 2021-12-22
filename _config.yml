@@ -153,6 +153,7 @@ social:
 
 pages_list:
   About: 'about'
+  Research: 'research'
   Publications: 'timeline'
   News/Blog: 'latest-post'
   Contact: 'contact'
