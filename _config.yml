@@ -156,6 +156,7 @@ pages_list:
   Research: 'research'
   Publications: 'timeline'
   News/Blog: 'latest-post'
+  Funding: 'funding'
   Contact: 'contact'
 
 # Exclusion list from the generated _site
