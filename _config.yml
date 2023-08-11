@@ -32,7 +32,7 @@ force-https: False
 
 lang: "en"
 author: "Jeffrey Vedanayagam"
-title: "{ Jeffrey Vedanayagam }"
+title: "Evolutionary and Developmental Genomics (EDGe) laboratory"
 description: "Website and blog of Jeffrey Vedanayagam, blogging mainly for science and philosophy. All opinions expressed here are purely my own."
 keywords: "vedanayagam, jeffrey, personal, jekyll, theme"
 favicon: "/img/favicon.ico"
