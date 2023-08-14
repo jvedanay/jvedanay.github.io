@@ -32,8 +32,8 @@ force-https: False
 
 lang: "en"
 author: "Jeffrey Vedanayagam"
-title: "Evolutionary & Developmental Genomics (EDGe) Lab"
-description: "Website and blog of Jeffrey Vedanayagam, blogging mainly for science and philosophy. All opinions expressed here are purely my own."
+title: "{Evolutionary & Developmental Genomics} at UTSA"
+description: "Website of Evolutionary & Developmental Genomics lab at UTSA."
 keywords: "vedanayagam, jeffrey, personal, jekyll, theme"
 favicon: "/img/favicon.ico"
 #404-img: "/img/labtocat.png"
