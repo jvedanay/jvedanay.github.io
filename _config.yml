@@ -32,7 +32,7 @@ force-https: False
 
 lang: "en"
 author: "Jeffrey Vedanayagam"
-title: "{Evolutionary & Developmental Genomics} at UTSA"
+title: "{Evolutionary & Developmental Genomics} @ UTSA"
 description: "Website of Evolutionary & Developmental Genomics lab at UTSA."
 keywords: "vedanayagam, jeffrey, personal, jekyll, theme"
 favicon: "/img/favicon.ico"
