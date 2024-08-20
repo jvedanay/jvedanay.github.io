@@ -155,6 +155,7 @@ pages_list:
   About: 'about'
   Research: 'research'
   People: 'people'
+  Outside the lab: 'outside'
   Publications: 'timeline'
   News/Blog: 'latest-post'
   Funding: 'funding'
