@@ -10,6 +10,37 @@ title: Outside the Lab
   <img src="/img/escape_room_2.jpeg" height="320px" width="250px" style="float:middle; border: 0; padding-left: 10px"> </font></p>
 -->
 
+<html>
+<head>
+<style>
+* {
+  box-sizing: border-box;
+}
+
+.column {
+  float: left;
+  width: 33.33%;
+  padding: 5px;
+}
+
+/* Clearfix (clear floats) */
+.row::after {
+  content: "";
+  clear: both;
+  display: table;
+}
+
+/* Responsive layout - makes the three columns stack on top of each other instead of next to each other */
+@media screen and (max-width: 500px) {
+  .column {
+    width: 100%;
+  }
+}
+</style>
+</head>
+<body>
+
+<p align="left"> <font size="4"> <b><span style="color:#54B3E8"><i> The Escape Room </i></span></b></font></p>
 
 <div class="row">
   <div class="column">
