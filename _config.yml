@@ -163,7 +163,7 @@ pages_list:
 
 # Exclusion list from the generated _site
 
-exclude: ["LICENSE", "README.md", "CONTRIBUTING", "CONTRIBUTORS", "scripts", "about.html", "new_people_2.html"]
+exclude: ["LICENSE", "README.md", "CONTRIBUTING", "CONTRIBUTORS", "scripts"]
 
 # Pagination path
 
