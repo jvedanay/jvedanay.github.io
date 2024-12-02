@@ -152,7 +152,7 @@ social:
 # Sections shown in the index page
 
 pages_list:
-  About: 'about'
+  About: 'about_2'
   Research: 'research'
   People: 'people'
   Outside the lab: 'outside'
