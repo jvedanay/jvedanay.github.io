@@ -399,13 +399,16 @@ When I'm not in the lab, I love spending quality time with my family. We enjoy g
 <head>
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <style>
-body {font-family: Arial, Helvetica, sans-serif;}
+body {
+  font-family: Arial, Helvetica, sans-serif;
+}
 
 .flip-card {
   background-color: transparent;
   width: 260px;
   height: 370px;
-  perspective: 10000px;}
+  perspective: 10000px;
+}
 
 .flip-card-inner {
   position: absolute;
@@ -413,28 +416,36 @@ body {font-family: Arial, Helvetica, sans-serif;}
   height: 100%;
   text-align: center;
   transition: transform 0.6s;
-  transform-style: preserve-3d;}
+  transform-style: preserve-3d;
+}
 
 
-.flip-card:hover .flip-card-inner {transform: rotateY(180deg);}
+.flip-card:hover .flip-card-inner {
+  transform: rotateY(180deg);
+}
 
 .flip-card-front, .flip-card-back {
   position: absolute;
   width: 100%;
   height: 100%;
   -webkit-backface-visibility: hidden;
-  backface-visibility: hidden;}
+  backface-visibility: hidden;
+}
 
 .flip-card-front {
   background-color: #000000;
-  color: white;}
+  color: white;
+}
 
 .flip-card-back {
   background-color: #ffffff;
   color: black;
-  transform: rotateY(180deg);}
+  transform: rotateY(180deg);
+}
 
-html {box-sizing: border-box;}
+html {
+  box-sizing: border-box;
+}
 
 *, *:before, *:after {
   box-sizing: inherit;
@@ -472,16 +483,16 @@ html {box-sizing: border-box;}
 </style>
 </head>
 
-<!-- Body start -->	
+<!-- Now we can set up the body -->
 <body>
 
-<!-- Row start -->	
+<!-- we have to denote the row before adding columns-->	
 <div class="row">
 
 <!-- Card START -->	
 <div class="column">
 <div class="card">
-<img src="/img/Fly.svg" alt="Elio" style="width:230px;height:300px;">
+<img src="/img/Elio_M.jpg" alt="Elio" style="width:230px;height:300px;">
 <p align="center"  style="margin:0px"> <font size="4">Elio Macias</font></p>
 <p align="center"  style="margin:0px"> <font size="2"></font></p>
 </div>
